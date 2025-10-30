@@ -1,0 +1,26 @@
+
+Topic: Strings
+
+1. Write a Python program to count the number of vowels, consonants, digits, and special characters in a given string.
+2. Write a program to check if a string is a palindrome or not.
+3. Take a string input and print it in reverse without using any built-in reverse functions.
+4. Write a program to count the frequency of each character in a string.
+5. Write a program to remove all duplicate characters from a string.
+6. Write a Python program to find the longest word in a given sentence.
+7. Write a program to replace all spaces in a string with a hyphen (-).
+8. Write a program to check if two strings are anagrams of each other.
+9. Write a program to find all substrings of a given string.
+10. Write a Python program to count the occurrences of each word in a given paragraph (case-insensitive).
+
+Topic: File Handling
+
+1. Write a Python program to create a text file and write user input into it.
+2. Write a program to read a text file and display its contents.
+3. Write a program to count the number of lines, words, and characters in a text file.
+4. Write a Python program to read a file and print only the lines that start with a vowel.
+5. Write a program to copy the contents of one file to another.
+6. Write a program to find and replace a word in a text file (e.g., replace "old" with "new").
+7. Write a Python program to append data to an existing text file.
+8. Write a program to merge the contents of two text files into a third file.
+9. Write a Python program that reads a file and displays only unique words.
+10. Write a program that reads a CSV file and prints the total number of rows and columns.
