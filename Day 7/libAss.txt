@@ -1,0 +1,26 @@
+🔹 Q1. math module
+Write a program to:
+Take a number from the user and display its square root using math.sqrt().
+Find the power of a number using math.pow(x, y).
+Print the value of π using math.pi.
+Use math.floor() to round down a decimal number.
+Calculate the area and circumference of a circle using math.pi and math.pow().
+
+🔹 Q2. random module
+Generate and print a random number between 1 and 100.
+Write a program that randomly picks one student name from a list.
+Create a simple dice simulator using random.randint(1,6).
+Write a program that shuffles a list of numbers [1,2,3,4,5,6] and prints it.
+
+🔹 Q3. datetime module
+Display the current date and time using datetime.datetime.now().
+Format the current date as DD/MM/YYYY using strftime().
+Find how many days are left until New Year from today’s date.
+Display only the current day name (e.g., Monday, Tuesday, etc.).
+
+🔹 Q4. matplotlib (optional extension)
+Plot a line graph of marks of 5 students.
+Plot a bar chart showing population of 4 cities.
+Create a pie chart of time spent on daily activities (sleep, study, exercise, etc.).
+
+

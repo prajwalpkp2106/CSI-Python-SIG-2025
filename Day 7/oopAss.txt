@@ -1,0 +1,43 @@
+Q1. Classes and Objects
+Create a class Car with attributes brand, model, and price.
+Create 2 objects and display their details using a method.
+Create a class Student with attributes name, roll_no, marks.
+Add a method display() to show details.
+Create multiple student objects and print them.
+
+Q2. Constructors
+Demonstrate a default constructor that prints a message.
+Create a parameterized constructor in a class Laptop that takes brand and price as arguments.
+Simulate constructor overloading using default arguments.
+Create a class Employee:
+Use a constructor to initialize name and salary.
+Add a method show() to display both values.
+
+Q3. Inheritance
+Single Inheritance:
+Create a base class Animal and derived class Dog.
+Animal has speak() method
+Dog has bark() method
+Create object of Dog and call both methods.
+Multilevel Inheritance:
+Class Grandfather → Father → Son.
+Each has one method.
+Call all three using the Son object.
+Multiple Inheritance:
+Classes Teacher and Mentor → child class Guide.
+Each has one method. Show all methods using Guide object.
+Hierarchical Inheritance:
+One parent class Shape, with child classes Circle and Rectangle.
+Each child class should have an area() method.
+Hybrid Inheritance (optional):
+Combine multiple and multilevel inheritance to show method calls.
+
+Q4. Application-Based
+Design a class BankAccount with:
+Attributes: account_number, name, balance
+Methods: deposit(), withdraw(), display_balance()
+Use constructor to initialize balance.
+Create a class hierarchy:
+Base class: Person
+Derived classes: Student, Teacher
+Each should have a display() method showing different information.
